@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.company</groupId>
-    <artifactId>RestWithSpringBootUdemy</artifactId>
+    <artifactId>CalculatorRest</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 

@@ -1,4 +1,4 @@
-package com.company.Math;
+package com.company.math;
 
 public class Operations {
 

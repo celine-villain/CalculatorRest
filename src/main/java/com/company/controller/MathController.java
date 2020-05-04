@@ -1,7 +1,7 @@
 package com.company.controller;
 
-import com.company.Math.NumberFormat;
-import com.company.Math.Operations;
+import com.company.math.NumberFormat;
+import com.company.math.Operations;
 import com.company.exception.UnsupportedMathOperationException;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
